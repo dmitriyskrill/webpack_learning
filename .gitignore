@@ -1,5 +1,7 @@
 .idea
 
-AssetManagement/node_modules
-OutputManagement/node_modules
-OutputManagement/dist
+01_AssetManagement/node_modules
+02_OutputManagement/node_modules
+02_OutputManagement/dist
+03_Development/node_modules
+03_Development/dist
